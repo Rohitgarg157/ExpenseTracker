@@ -240,3 +240,4 @@ D:\project\Expense_Tracker_MVC_project\Expense Tracker\Expense Tracker\obj\Debug
 D:\project\Expense_Tracker_MVC_project\Expense Tracker\Expense Tracker\obj\Debug\net8.0\Expense Tracker.pdb
 D:\project\Expense_Tracker_MVC_project\Expense Tracker\Expense Tracker\obj\Debug\net8.0\Expense Tracker.genruntimeconfig.cache
 D:\project\Expense_Tracker_MVC_project\Expense Tracker\Expense Tracker\obj\Debug\net8.0\ref\Expense Tracker.dll
+D:\project\Expense_Tracker_MVC_project\Expense Tracker\Expense Tracker\obj\Debug\net8.0\Expense Tracker.sourcelink.json
